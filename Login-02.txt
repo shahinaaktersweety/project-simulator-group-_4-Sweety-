@@ -1,0 +1,6 @@
+Login: 02
+Card Title: User Login
+
+Description:
+The system should allow registered users to securely
+log into the system using valid credentials.
