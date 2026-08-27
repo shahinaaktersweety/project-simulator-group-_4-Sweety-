@@ -1,0 +1,7 @@
+Card Serial: 03
+Card Title: Report Frame
+Assigned Member: Saidur Rahman
+GitHub Username: tushercse24-ai
+Branch Name: feature/saidur
+Description: Created and organized the report frame.
+Status: Completed
