@@ -1,5 +1,8 @@
-Project-02.
-Description:
-View project information.
-Track project details.
-Track progress and deadlines
+Trello Card Serial: 02
+
+Card Description: Project
+
+Assigned Member: Shahriar Alam
+GitHub Username: @shahriaralam2
+
+Completion Status: Completed
