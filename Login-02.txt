@@ -1,6 +1,10 @@
-Login: 02
-Card Title: User Login
+Login
 
 Description:
-The system should allow registered users to securely
-log into the system using valid credentials.
+Login to the system using valid user credentials.
+Authenticate users securely.
+Provide access to the system after successful login.
+
+Assigned Member: Shahina Akter Sweety
+GitHub Username: @shahinasweety
+Completion Status: Completed
