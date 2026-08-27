@@ -1,0 +1,7 @@
+Card Serial: 02
+Card Title: Generate New Report
+Assigned Member: Saidur Rahman
+GitHub Username: tushercse24-ai
+Branch Name: feature/saidur
+Description: Developed the feature for generating a new report.
+Status: Completed
