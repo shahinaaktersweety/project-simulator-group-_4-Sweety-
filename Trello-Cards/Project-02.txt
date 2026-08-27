@@ -1,1 +1,5 @@
-hard project
+Project-02.
+Description:
+View project information.
+Track project details.
+Track progress and deadlines
