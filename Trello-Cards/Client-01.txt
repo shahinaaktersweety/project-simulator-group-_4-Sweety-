@@ -1,4 +1,8 @@
-Client-o1
-Description:
-Add new client, view clients, manage clients projects.
-Keep track of clients.
+Trello Card Serial: 01
+
+Card Description: Client
+
+Assigned Member: Shahriar Alam
+GitHub Username: @shahriaralam2
+
+Completion Status: Completed
