@@ -1,1 +1,7 @@
-
+Card Serial: 01
+Card Title: Task Frame
+Assigned Member: Saidur Rahman
+GitHub Username: tushercse24-ai
+Branch Name: feature/saidur
+Description: Created the task frame for the project.
+Status: Completed
