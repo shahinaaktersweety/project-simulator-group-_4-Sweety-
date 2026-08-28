@@ -1,0 +1,6 @@
+Card Serial: TC-04
+Card Title: Edit Profile
+Description: As a Project Administrator, we want to edit our profile information so that we can keep our personal and account details accurate and up to date.
+Assigned Member: Tariqul Islam Riyad
+GitHub Username: tariqulaiub611-ship-it
+Status: Completed
