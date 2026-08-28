@@ -1,0 +1,6 @@
+Card Serial: TC-02
+Card Title: Setting Profile
+Description: As a Project Administrator, we want to manage system settings so that we can customize the system according to our preferences.
+Assigned Member: Tariqul Islam Riyad
+GitHub Username: tariqulaiub611-ship-it
+Status: Completed

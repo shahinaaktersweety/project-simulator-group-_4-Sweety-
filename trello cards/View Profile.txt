@@ -1,0 +1,6 @@
+Card Serial: TC-01
+Card Title: View Profile
+Description: As a Project Administrator, we want to view our profile so that we can check our personal and account information.
+Assigned Member: Tariqul Islam Riyad
+GitHub Username: tariqulaiub611-ship-it
+Status: Completed
