@@ -1,0 +1,7 @@
+Card Serial: 04
+Card Title: Report
+Assigned Member: Saidur Rahman
+GitHub Username: tushercse24-ai
+Branch Name: feature/saidur
+Description: Prepared and completed the final report.
+Status: Completed
