@@ -1,0 +1,8 @@
+Trello Card Serial: 02
+
+Card Description: Project
+
+Assigned Member: Shahriar Alam
+GitHub Username: @shahriaralam2
+
+Completion Status: Completed
