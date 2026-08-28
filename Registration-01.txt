@@ -1,0 +1,10 @@
+Registration 01
+
+Description:
+Create a new user account.
+Collect the required user information.
+Register users and store their account details in the system.
+
+Assigned Member: Shahina AKter Sweety
+GitHub Username: @shahinasweety
+Completion Status: Completed

@@ -1,0 +1,10 @@
+Login 02
+
+Description:
+Login to the system using valid user credentials.
+Authenticate users securely.
+Provide access to the system after successful login.
+
+Assigned Member: Shahina Akter Sweety
+GitHub Username: @shahinasweety
+Completion Status: Completed
